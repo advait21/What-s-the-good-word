@@ -12,3 +12,5 @@ To run this game, execute the app.py file by using the following set of commands
 2. flask run
 
 The UI of the game looks like this
+
+![jw-3](https://github.com/advait21/What-s-the-good-word/assets/76252106/279201d8-0547-4ea3-a307-9c239c48cb1b)
